@@ -63,9 +63,7 @@ The project uses the PHPMailer library for handling email transmission (defined 
 - Contact form with password recovery function
 - Separate login system for customers and administrators
 
-# Setup Instructions for Website with Online Store Functionality
-
-## Quick Setup Guide using XAMPP
+# Setup Instructions with XAMPP
 
 ### Step 1: Install XAMPP
 
