@@ -1,4 +1,4 @@
-# Website Project with Online Store Functionality - Description
+# Website Project with Online Store Functionality
 
 ## Overview
 
